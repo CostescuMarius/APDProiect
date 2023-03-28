@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\coste\Desktop\APD\Proiect\Varianta secventiala\APDProiect\VariantaSecventiala\VariantaSecventiala\Main.cpp(16,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\coste\Desktop\APD\Proiect\Varianta secventiala\APDProiect\VariantaSecventiala\VariantaSecventiala\Main.cpp(110,23): warning C4018: '<': signed/unsigned mismatch
+  VariantaSecventiala.vcxproj -> C:\Users\coste\Desktop\APD\Proiect\Varianta secventiala\APDProiect\VariantaSecventiala\Debug\VariantaSecventiala.exe
