@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\coste\Desktop\APD\Proiect\MergeSortParallel\ParallelMergeSort\ParallelMergeSort\main.cpp(164,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ParallelMergeSort.vcxproj -> C:\Users\coste\Desktop\APD\Proiect\MergeSortParallel\ParallelMergeSort\x64\Debug\ParallelMergeSort.exe
